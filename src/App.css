@@ -1,7 +1,25 @@
+* {
+  margin-top: 5px;
+}
 .App {
   text-align: center;
 }
 
+.each-box {
+  margin-bottom: 100px;
+  border: 1px solid black;
+  border-radius: 100px;
+
+}
+
+.recipe-photo{
+  border: 3px solid black;
+  border-radius: 200px;
+}
+input {
+  margin-bottom: 50px;
+  width: fit-content;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
